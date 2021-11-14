@@ -9,8 +9,8 @@ Hey! My name is Anna and I am an aspiring Front-dev from Poland. I love learning
 - I am currently on 3-months programming bootcamp in the INCO Academy which combines the Front-end skills and some of the Back-end aspects.
 - I really like wroking with React.js and most of my projects I have done in this technology :blue_heart:
 - I’m currently working on Schedule App using Express.js and Postgresql.
-- I like traveling  :european_castle: Japanese culture :cherry_blossom: mountain hiking :mount_fuji: ...and I'm totally a cat person! :smile_cat:
-- I really like winter season and I would like to try ski :ski: some day!
+- Things I enjoy the most: traveling  :european_castle: Japanese culture :cherry_blossom: mountain hiking :mount_fuji: ...and I'm totally a cat person! :smile_cat:
+- I prefer winter season and I would like to try ski :ski: some day!
 
 ## 🔧 Technologies I use:
 
